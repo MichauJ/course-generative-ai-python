@@ -1,0 +1,25 @@
+Coinye
+
+From Wikipedia, the free encyclopedia
+
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (December 2022)
+Coinye
+
+
+Inflation	Limited release, production rate before this limit re-evaluated with the production of every block (at a rate of approximately 1 block per 90 seconds) based on the difficulty with which COINYEs are produced, eventually leading up to a final total of 133,333,333,333 coins.
+ Method	1 reward is released per block found. Rewards halve every 100K blocks.
+Coinye, formerly Coinye West, is[1] a scrypt-based cryptocurrency. Cease and desist letters were issued against it for its use of the American hip hop artist Kanye West, as its mascot despite West having no affiliation with the project.[2][3] The project was abandoned by the original developers following West's filing of a trademark infringement lawsuit against them.[4]
+
+History
+Release
+Coinye was originally slated for release on January 11, 2014, but legal pressure prompted David P. McEnery Jr. and his development team to release the source code and mining software on January 7, a few days ahead of schedule.[5] Early press materials promised a proper and fair release, with no pre-allocation of coins.[6] However, later statements from the developers confirmed that approximately 0.37% of the maximum money supply of Coinye had been reserved for the creators of the coin before launch.[7] The developers claimed that this was to cover unexpected legal and development costs.
+
+Trademark-infringement lawsuit
+On January 6, 2014, Kanye West's lawyers sent the development team a cease and desist order on the basis that the then-unreleased currency constituted trademark infringement, unfair competition, cyberpiracy and dilution.[8][9] In response to the legal threats, the development team changed the name of the currency from "Coinye West" to "Coinye" and moved to a new domain name.[10] By January 10, 2014, the development team stated that they had removed all references to West but instead "to a half-man-half-fish hybrid," a nod to a South Park episode in which West fails to realize why people are jokingly calling him a "gay fish."[11] These actions were not sufficient to appease West's legal team, and a lawsuit was filed against the creators of the coin, prompting them to sell their Coinye holdings and leave the project.[12]
+
+Developer departure and community takeover
+On January 14, 2014, a representative of Coinye announced on Reddit that "the developers basically dumped all their coins on the one exchange and left the scene."[12] Coinye's official site was replaced with text reading "Coinye is dead. You win, Kanye." and the original website is now down.[13]
+
+Decline (2014-2020)
+Coinye has been called "defunct" by numerous publications.[14][15][16] Coinye's global block difficulty fell from 78 to 1.012 between January 18, 2014,[17] and May 7, 2014,[18] indicating that the network's total processing power fell by roughly 99% during that time. According to music writer Sasha Geffen, in the midst of the 2017 cryptocurrency bull market, Coinye would have risen in value up to twentyfold, had Kanye West not threatened legal action.[19] However, in 2017, few people were still trading or mining Coinye.[20]
+
