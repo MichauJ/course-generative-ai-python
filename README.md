@@ -134,9 +134,11 @@ Find definitions and examples of working with LLMs in Python on presentations in
 [6. LLM Results evaluation.pdf](slides/6.%20LLM%20Results%20evaluation.pdf)\
 [7. Parameter-Efficient Fine-Tuning (PEFT), LoRA i RLHF.pdf](slides/7.%20Parameter-Efficient%20Fine-Tuning%20%28PEFT%29%2C%20LoRA%20i%20RLHF.pdf)
 
-## Project: AI chatbot with RAG
+## Project
 
-AI chatbot project in Streamlit framework based on https://github.com/shashankdeshpande/langchain-chatbot
+AI chatbot project in Streamlit framework [project-ai-chatbot-rag-langchain](project-ai-chatbot-rag-langchain)
+
+based on https://github.com/shashankdeshpande/langchain-chatbot
 
 ## License
 
