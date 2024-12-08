@@ -3,3 +3,5 @@
 Langchain-Full-Course-main
 DIALOGUE_LORA_PEFT
 storage
+*/__pycache__
+wandb
